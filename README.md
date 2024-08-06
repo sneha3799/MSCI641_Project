@@ -25,4 +25,4 @@ The CNN/DailyMail dataset on Kaggle is designed for text summarization tasks. It
 
 ## Model
 
-The finetuned models are available here - [Link]
+The finetuned models are available here - [Link](https://drive.google.com/drive/folders/1sNhdDEQOtqzkA7IX-_fjkpdMKbKu3jcV?usp=sharing)
