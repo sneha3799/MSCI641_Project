@@ -19,7 +19,7 @@ This project aims to evaluate various transformer-based models for the task of a
 - **Seq2Seq**: A model trained from scratch for comparison purposes.
 
 ## Dataset
-The CNN/DailyMail dataset is used for training and evaluation - [Link][https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail/data]. 
+The CNN/DailyMail dataset is used for training and evaluation - [Link](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail/data). 
 
 The CNN/DailyMail dataset on Kaggle is designed for text summarization tasks. It comprises over 300,000 news articles from CNN and the Daily Mail, along with their corresponding summaries. This dataset is widely used in the development and evaluation of machine learning models for summarization, providing a rich resource for NLP research.
 
